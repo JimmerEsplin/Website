@@ -1,0 +1,68 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #9b1616;
+}
+
+
+.destination-list {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.destination {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.attraction-list {
+    list-style-type: disc;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color: #acacac;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: #7f2d0a;
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+}
+
+.tableau-graph {
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
